@@ -161,9 +161,11 @@ button {
 /*BUUTON*/
 .btn-request {
     background-color: var(--color-btn);
-    color: var(--color-primary);
     padding: 1.8rem 1.5rem;
     border-radius: 8px;
+}
+.btn-request a{
+    color: var(--color-primary);
     font-size: 1.4rem;
 }
 
