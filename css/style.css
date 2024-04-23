@@ -173,6 +173,8 @@ button {
     .btn-request {
         padding: 2rem 1.5rem;
         border-radius: 8px;
+    }
+    .btn-request a{
         font-size: 1.6rem;
     }
 }
