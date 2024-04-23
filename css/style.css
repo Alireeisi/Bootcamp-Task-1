@@ -164,7 +164,8 @@ button {
     padding: 1.8rem 1.5rem;
     border-radius: 8px;
 }
-.btn-request a{
+
+.btn-request a {
     color: var(--color-primary);
     font-size: 1.4rem;
 }
@@ -174,7 +175,8 @@ button {
         padding: 2rem 1.5rem;
         border-radius: 8px;
     }
-    .btn-request a{
+
+    .btn-request a {
         font-size: 1.6rem;
     }
 }
